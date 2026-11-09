@@ -51,6 +51,14 @@ Para melhor leitura do código, o tema combina com:
 - **Fira Code** (com ligaduras)
 - **Cascadia Code**
 
+## Publisher
+
+- **Publicado por:** Wesley Souza (`95wesley`)
+- **Página do publisher:** https://marketplace.visualstudio.com/publishers/95wesley *(ativa após a criação)*
+- **Site:** https://bywesley.com.br
+- **Suporte:** [abra uma issue](../../issues)
+- **Perfil no GitHub:** https://github.com/95wesley
+
 ## Apoie o projeto
 
 Se você usa o ShadowVsCode Theme, pode apoiar o trabalho:
