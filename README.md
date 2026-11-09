@@ -19,6 +19,13 @@
 
 <p align="center"><sub>Prévia gerada a partir das cores do tema (ShadowVsCode Zinc Dark).</sub></p>
 
+## Capturas de tela
+
+| | |
+|:-:|:-:|
+| <img src="docs/screenshots/theme-1.png" alt="ShadowVsCode, variante 1"> | <img src="docs/screenshots/theme-2.png" alt="ShadowVsCode, variante 2"> |
+| <img src="docs/screenshots/theme-3.png" alt="ShadowVsCode, variante 3"> | <img src="docs/screenshots/theme-4.png" alt="ShadowVsCode, variante 4"> |
+
 ## Instalação
 
 Este repositório distribui a extensão. O código-fonte não é publicado aqui.
