@@ -11,6 +11,14 @@
 
 ---
 
+## Prévia
+
+<p align="center">
+  <img src="docs/preview-dark.png" width="900" alt="Prévia do ShadowVsCode Zinc Dark no VS Code">
+</p>
+
+<p align="center"><sub>Prévia gerada a partir das cores do tema (ShadowVsCode Zinc Dark).</sub></p>
+
 ## Instalação
 
 Este repositório distribui a extensão. O código-fonte não é publicado aqui.
