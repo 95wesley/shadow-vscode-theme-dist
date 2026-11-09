@@ -71,7 +71,7 @@ Para melhor leitura do código, o tema combina com:
 Se você usa o ShadowVsCode Theme, pode apoiar o trabalho:
 
 - **Pix** (chave, e-mail): `we95sz@gmail.com`
-- **Ko-fi:** [ko-fi.com/95wesle](https://ko-fi.com/95wesle)
+- **Ko-fi:** [ko-fi.com/95wesley](https://ko-fi.com/95wesley)
 
 ## Licença
 
