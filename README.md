@@ -31,11 +31,11 @@ Enquanto isso, use a instalação manual abaixo.
 Em breve, pela aba de extensões, procurando por **ShadowVsCode Theme**.
 
 ### Instalação manual (`.vsix`)
-1. Baixe `shadow-vscode-theme-1.0.1.vsix` em [Releases](../../releases/latest).
+1. Baixe `shadow-vscode-theme-1.0.2.vsix` em [Releases](../../releases/latest).
 2. No VS Code, abra o painel de extensões, clique em `...` e escolha **Install from VSIX...**.
    Ou pelo terminal:
    ```sh
-   code --install-extension shadow-vscode-theme-1.0.1.vsix
+   code --install-extension shadow-vscode-theme-1.0.2.vsix
    ```
    No Cursor ou no Windsurf, use `cursor` ou `windsurf` no lugar de `code`.
 
