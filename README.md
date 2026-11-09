@@ -53,11 +53,11 @@ Para melhor leitura do código, o tema combina com:
 
 ## Publisher
 
-- **Publicado por:** Wesley Souza (`95wesley`)
-- **Página do publisher:** https://marketplace.visualstudio.com/publishers/95wesley *(ativa após a criação)*
-- **Site:** https://bywesley.com.br
-- **Suporte:** [abra uma issue](../../issues)
-- **Perfil no GitHub:** https://github.com/95wesley
+- **Publisher:** Wesley Souza (`95wesley`)
+- **Publisher page:** https://marketplace.visualstudio.com/publishers/95wesley *(active after creation)*
+- **Website:** https://bywesley.com.br
+- **Support:** [open an issue](../../issues)
+- **GitHub profile:** https://github.com/95wesley
 
 ## Apoie o projeto
 
