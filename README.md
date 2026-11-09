@@ -53,7 +53,7 @@ Para melhor leitura do código, o tema combina com:
 
 ## Publisher
 
-- **Publisher:** Wesley Souza (`95wesley`)
+- **Publisher:** `95wesley`
 - **Publisher page:** https://marketplace.visualstudio.com/publishers/95wesley *(active after creation)*
 - **Website:** https://bywesley.com.br
 - **Support:** [open an issue](../../issues)
