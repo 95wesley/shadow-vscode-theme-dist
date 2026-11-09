@@ -67,6 +67,17 @@ Se você usa o ShadowVsCode Theme, pode apoiar o trabalho:
 - **Nome:** Wesley Souza
 - **Ko-fi:** [ko-fi.com/95wesle](https://ko-fi.com/95wesle)
 
+**Pix, R$ 5,00:**
+
+<p align="center">
+  <img src="pix-5reais-qrcode.png" width="220" alt="QR code Pix R$ 5,00">
+</p>
+
+Pix copia e cola:
+```
+00020101021226660014br.gov.bcb.pix0116we95sz@gmail.com0224Apoio ShadowVsCode Theme52040000530398654045.005802BR5912WESLEY SOUZA6006BRASIL62070503***6304E00D
+```
+
 ## Licença
 
 MIT. Veja [LICENSE](LICENSE).
