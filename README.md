@@ -71,6 +71,13 @@ Para melhor leitura do código, o tema combina com:
 Se você usa o ShadowVsCode Theme, pode apoiar o trabalho:
 
 - **Pix** (chave, e-mail): `we95sz@gmail.com`
+
+<p align="center"><img src="docs/pix-qrcode.png" width="220" alt="QR code Pix R$ 5,00"></p>
+
+Pix copia e cola:
+```
+00020101021226660014br.gov.bcb.pix0116we95sz@gmail.com0224Apoio ShadowVsCode Theme52040000530398654045.005802BR590895WESLEY6006BRASIL62070503***6304A8AF
+```
 - **Ko-fi:** [ko-fi.com/95wesley](https://ko-fi.com/95wesley)
 
 ## Licença
